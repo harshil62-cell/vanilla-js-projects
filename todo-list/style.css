@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color:white;
+    height: 100vh;
+}
+
+input{
+    height:30px;
+    width:300px;
+    padding:5px;
+    font-size: 20px;
+}
+
+button{
+    height:44px;
+    padding:5px;
+    font-size: 20px;
+    cursor: pointer;
+}
