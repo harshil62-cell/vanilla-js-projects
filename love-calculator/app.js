@@ -10,4 +10,5 @@ form.addEventListener('submit',(e)=>{
     const result=Math.pow(l1+l2,3)%101;
 
     document.querySelector('h2').textContent=`Result: ${result}%`;
+    form.reset();
 });
