@@ -1,0 +1,22 @@
+#first{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1{
+    height:200px;
+    width:700px;
+    margin-bottom: 20px;
+    overflow:scroll;
+    border:2px solid white;
+    border-radius: 20px;
+    padding:20px;
+}
+
+button{
+    height:50px;
+    width:100px;
+    align-self: center;
+}
+
